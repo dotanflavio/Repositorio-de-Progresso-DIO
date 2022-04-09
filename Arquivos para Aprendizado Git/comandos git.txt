@@ -1,0 +1,17 @@
+comandos git
+
+cd ..						(volta para pasta anterior do repositorio)
+cd e nome do repositorio 		(para trabalhar dentro do repositorio)
+git status 					(mostra o status do repositorio)
+git add .              			(adiciona os arquivos ao controle de versao local)
+git commit -m "mais especificacao do que vc quer" (comita e as "" adicionam um comentario)
+git push origin main 			(envia os commits locais para nuvem do github)
+git clone e o nome do repositorio online (clona o repositorio do github)
+
+Git add . - Pego as mudanças que quero commitar
+
+Git status - Vejo se ficou tudo em "verde", ou seja, se todos os arquivos que fiz modificações foram considerados
+
+Git commit - estágio pré upload no repositório
+
+Git push - pra jogar tudo no repositório
